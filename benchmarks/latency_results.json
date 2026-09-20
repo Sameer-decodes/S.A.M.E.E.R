@@ -1,0 +1,12 @@
+{
+  "requests_evaluated": 150,
+  "total_elapsed_sec": 2.479,
+  "requests_per_second": 60.5,
+  "average_latency_ms": 16.53,
+  "median_latency_ms": 15.95,
+  "p90_latency_ms": 18.86,
+  "p95_latency_ms": 20.89,
+  "p99_latency_ms": 26.7,
+  "min_latency_ms": 12.14,
+  "max_latency_ms": 73.29
+}
